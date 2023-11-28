@@ -22,9 +22,8 @@
 <img src = "https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" widht = "50" height= "50" /> 
 
 # Social
-cosimo.tatini
 <p align = "left" >
-<img src= "https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square2-512.png" widht= "50" height= "50" />
+<img src= "https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square2-512.png" widht= "50" height= "50" /> cosimo.tatini
 
 JokerCosimoX
 <p align = "left" >
