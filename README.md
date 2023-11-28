@@ -8,7 +8,7 @@
     </a>
   </p> 
 
-<div align="left">
+<div align="right">
   <img src="https://www.macitynet.it/wp-content/uploads/2016/06/netflix-logo-930x930.png" widht= "100" height="100" />
 
   <img src=https://static.vecteezy.com/system/resources/thumbnails/002/219/582/small_2x/illustration-of-book-icon-free-vector.jpg/>
