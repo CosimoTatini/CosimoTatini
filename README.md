@@ -3,7 +3,7 @@
 </div>
 
   # Hobbies
-  <p align="left center"> 
+  <p align="center high"> 
    <img src="https://cdn-icons-png.flaticon.com/512/8002/8002111.png" widht= "100" height= "100" />
     </a>
   </p> 
