@@ -11,26 +11,11 @@
     <img src="https://m.media-amazon.com/images/I/417jywf7ZAL.png" widht= "50" height= "50"/>
    </a>
    </p> 
-<div align="left">
-  <img src= />
 
-  <img src=/>
-</div>
-<div align="center" float="center">
-  <img src="/>  
- <img src="https:"/>
-</div>
-<div align="center">
-  
-</div>
- 
-<br/>  
+# Skills 
+<p align= "left" float= "center">
+<img src = "https://cdn-icons-png.flaticon.com/512/2357/2357423.png" widht = "50" height= "50"
 
-<div id="badges" align="center">
-  <a href="">
-  </a>
-  <img src="/>
-</div>
 
 
 
