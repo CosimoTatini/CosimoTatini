@@ -4,9 +4,9 @@
 
   # Hobbies
   <p align = "center" float="center"> 
-   <img src="https://cdn-icons-png.flaticon.com/512/8002/8002111.png" widht= "100" height= "100" />
-    <img src="https://www.macitynet.it/wp-content/uploads/2016/06/netflix-logo-930x930.png" widht= "100" height="100"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" widht= "100" height=100/>
+   <img src="https://cdn-icons-png.flaticon.com/512/8002/8002111.png" widht= "50" height= "50"/>
+    <img src="https://www.macitynet.it/wp-content/uploads/2016/06/netflix-logo-930x930.png" widht= "50" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" widht= "50" height= "50"/>
     </a>
   </p> 
 <div align="left">
