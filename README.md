@@ -7,7 +7,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/8002/8002111.png" widht= "50" height= "50"/>
     <img src="https://www.macitynet.it/wp-content/uploads/2016/06/netflix-logo-930x930.png" widht= "50" height="50"/>
     <img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" widht= "50" height= "50"/>
-    <img src="https://static.vecteezy.com/ti/vettori-gratis/p3/1889502-icona-di-stile-piatto-di-note-musicali-gratuito-vettoriale.jpg" widht= "50" height= "50" />
+    <img src="https://play-lh.googleusercontent.com/eN0IexSzxpUDMfFtm-OyM-nNs44Y74Q3k51bxAMhTvrTnuA4OGnTi_fodN4cl-XxDQc" widht= "50" height= "50" />
     <img src="https://m.media-amazon.com/images/I/417jywf7ZAL.png" widht= "50" height= "50"/>
    </a>
    </p> 
