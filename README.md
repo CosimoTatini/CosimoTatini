@@ -2,7 +2,7 @@
   <img src= "https://media2.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=ecf05e47uhst86vvkxxas5bcgselsdg10on0ljlwxgdtvks5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="110"/>
 </div>
 
-   Hobbies
+   HOBBIES
   <p align = "center" float="center"> 
    <img src="https://cdn-icons-png.flaticon.com/512/8002/8002111.png" widht= "50" height= "50"/>
     <img src="https://www.macitynet.it/wp-content/uploads/2016/06/netflix-logo-930x930.png" widht= "50" height="50"/>
