@@ -2,13 +2,15 @@
   <img src= "https://media2.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=ecf05e47uhst86vvkxxas5bcgselsdg10on0ljlwxgdtvks5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="110"/>
 </div>
 
-   HOBBIES
+   # HOBBIES
   <p align = "center" float="center"> 
-   <img src="https://cdn-icons-png.flaticon.com/512/8002/8002111.png" widht= "50" height= "50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/8002/8002111.png" widht= "50" height= "50"/>
     <img src="https://www.macitynet.it/wp-content/uploads/2016/06/netflix-logo-930x930.png" widht= "50" height="50"/>
     <img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" widht= "50" height= "50"/>
-    </a>
-  </p> 
+    <img src="https://static.vecteezy.com/ti/vettori-gratis/p3/1889502-icona-di-stile-piatto-di-note-musicali-gratuito-vettoriale.jpg" widht= "50" height= "50" />
+    <img src=" https://assets.materialup.com/uploads/4045167a-85e3-4787-a6d1-e91a32071bf7/preview.jpg" widht= "50" height= "50"
+   </a>
+   </p> 
 <div align="left">
   <img src= />
 
