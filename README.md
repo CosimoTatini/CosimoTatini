@@ -8,10 +8,10 @@
     </a>
   </p> 
 
-<div align="center" float="center">
-  <img src="https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940" />
+<div align="left">
+  <img src="https://www.macitynet.it/wp-content/uploads/2016/06/netflix-logo-930x930.png" />
 
-  <img src=/>
+  <img src=https://static.vecteezy.com/system/resources/thumbnails/002/219/582/small_2x/illustration-of-book-icon-free-vector.jpg/>
 </div>
 <div align="center" float="center">
   <img src="/>  
