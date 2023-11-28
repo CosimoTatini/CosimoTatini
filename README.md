@@ -4,7 +4,7 @@
 
   # Hobbies
   <p align="right"> 
-   <img src="https://www.creativefabrica.com/wp-content/uploads/2022/08/16/Game-Controller-Glyph-Icon-Graphics-36355293-1.jpg"/> 
+   <img src="https://cdn-icons-png.flaticon.com/512/8002/8002111.png"/> 
     </a>
   </p> 
 <div align="left">
