@@ -7,7 +7,6 @@
    <img src="https://www.creativefabrica.com/wp-content/uploads/2022/08/16/Game-Controller-Glyph-Icon-Graphics-36355293-1.jpg"/> 
     </a>
   </p> 
-
 <div align="left">
   <img src="https://www.macitynet.it/wp-content/uploads/2016/06/netflix-logo-930x930.png" widht= "100" height="100" />
 
