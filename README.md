@@ -3,8 +3,8 @@
 </div>
 
   # Hobbies
-  <p align="right"> 
-   <img src="https://cdn-icons-png.flaticon.com/512/8002/8002111.png"/> 
+  <p align="left center"> 
+   <img src="https://cdn-icons-png.flaticon.com/512/8002/8002111.png" widht= "100" height= "100" />
     </a>
   </p> 
 <div align="left">
