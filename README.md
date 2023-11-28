@@ -4,12 +4,12 @@
 
   # Hobbies
   <p align="left">
-   <img src="https://www.creativefabrica.com/wp-content/uploads/2022/08/16/Game-Controller-Glyph-Icon-Graphics-36355293-1.jpg/>
+   <img src="https://www.creativefabrica.com/wp-content/uploads/2022/08/16/Game-Controller-Glyph-Icon-Graphics-36355293-1.jpg"/>
     </a>
   </p> 
 
 <div align="center" float="center">
-  <img src=" />
+  <img src="https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940" />
 
   <img src=/>
 </div>
