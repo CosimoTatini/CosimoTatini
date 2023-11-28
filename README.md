@@ -2,7 +2,7 @@
   <img src= "https://media2.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=ecf05e47uhst86vvkxxas5bcgselsdg10on0ljlwxgdtvks5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="110"/>
 </div>
 
-   # HOBBIES
+   # Hobbies
   <p align = "left" float="center"> 
     <img src="https://cdn-icons-png.flaticon.com/512/8002/8002111.png" widht= "50" height= "50"/>
     <img src="https://www.macitynet.it/wp-content/uploads/2016/06/netflix-logo-930x930.png" widht= "50" height="50"/>
@@ -24,8 +24,10 @@
 # Social
 Instagram: cosimo.tatini
 <p align = "left" >
-<img src= "https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square2-512.png" widht= "50" height= "50" 
-
+<img src= "https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square2-512.png" widht= "50" height= "50" />
+Telegram: JokerCosimoX
+<p align = "left" >
+<img src= "https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png" widht ="50" height = "50" /> 
 
 
 
