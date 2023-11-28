@@ -14,7 +14,7 @@
 
 # Skills 
 <p align= "left" float= "center">
-<img src = "https://cdn-icons-png.flaticon.com/512/2357/2357423.png" widht = "50" height= "50"
+<img src = "https://cdn-icons-png.flaticon.com/512/3471/3471391.png" widht = "50" height= "50"
 
 
 
