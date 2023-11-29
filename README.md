@@ -17,7 +17,7 @@
 <img src = "https://cdn-icons-png.flaticon.com/512/3471/3471391.png" widht = "50" height= "50"/>
 <img src = "https://cdn-icons-png.flaticon.com/512/7996/7996558.png" widht = "50" height ="50"/>
 
-# Skills (learning)
+# Skills ( in learning)
 <p align= "left" >
 <img src = "https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" widht = "50" height= "50" /> 
 
